@@ -1,0 +1,24 @@
+{
+    "pageProps": {
+      "propertyList": {
+        "content": [
+          {
+            "name": "Maxim Citilights",
+            "bedroom": 3,
+            "bathroom": 2,
+            "sqft": 1010,
+            "furnishType": "FULL",
+            "price": 1920
+          },
+          {
+            "name": "Mont Kiara Residence",
+            "bedroom": 2,
+            "bathroom": 2,
+            "sqft": 900,
+            "furnishType": "FULL",
+            "price": 2800
+          }
+        ]
+      }
+    }
+  }
